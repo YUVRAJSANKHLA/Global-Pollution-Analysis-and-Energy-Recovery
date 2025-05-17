@@ -126,7 +126,7 @@ Further study into converting different types of waste (especially plastic) into
 
 Long-term tracking of pollution vs economic growth for sustainable development insights.
 
-📁 Deliverables
+#Deliverables
 -Google Colab / Jupyter Notebook with code, plots, and models
 
 -Summary Report (this document)
